@@ -1,0 +1,15 @@
+C:\Users\ALENA\Desktop\Lesson1\example001_HelloWorld\bin\Debug\net7.0\example001_HelloWorld.exe
+C:\Users\ALENA\Desktop\Lesson1\example001_HelloWorld\bin\Debug\net7.0\example001_HelloWorld.deps.json
+C:\Users\ALENA\Desktop\Lesson1\example001_HelloWorld\bin\Debug\net7.0\example001_HelloWorld.runtimeconfig.json
+C:\Users\ALENA\Desktop\Lesson1\example001_HelloWorld\bin\Debug\net7.0\example001_HelloWorld.dll
+C:\Users\ALENA\Desktop\Lesson1\example001_HelloWorld\bin\Debug\net7.0\example001_HelloWorld.pdb
+C:\Users\ALENA\Desktop\Lesson1\example001_HelloWorld\obj\Debug\net7.0\example001_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\ALENA\Desktop\Lesson1\example001_HelloWorld\obj\Debug\net7.0\example001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALENA\Desktop\Lesson1\example001_HelloWorld\obj\Debug\net7.0\example001_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\ALENA\Desktop\Lesson1\example001_HelloWorld\obj\Debug\net7.0\example001_HelloWorld.AssemblyInfo.cs
+C:\Users\ALENA\Desktop\Lesson1\example001_HelloWorld\obj\Debug\net7.0\example001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ALENA\Desktop\Lesson1\example001_HelloWorld\obj\Debug\net7.0\example001_HelloWorld.dll
+C:\Users\ALENA\Desktop\Lesson1\example001_HelloWorld\obj\Debug\net7.0\refint\example001_HelloWorld.dll
+C:\Users\ALENA\Desktop\Lesson1\example001_HelloWorld\obj\Debug\net7.0\example001_HelloWorld.pdb
+C:\Users\ALENA\Desktop\Lesson1\example001_HelloWorld\obj\Debug\net7.0\example001_HelloWorld.genruntimeconfig.cache
+C:\Users\ALENA\Desktop\Lesson1\example001_HelloWorld\obj\Debug\net7.0\ref\example001_HelloWorld.dll
